@@ -2,7 +2,8 @@
 	"packages": [
 		{
 			"name": "base",
-			"author": "Jyles Coad-Ward [jyles@dariox.club]"
+			"author": "Jyles Coad-Ward [jyles@dariox.club]",
+			"repo": "https://github.com/discordseedbot/base.git"
 		}
 	]
 }
